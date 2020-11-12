@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Рейтинг</string>
+    <string name="edit_message">Введите сюда Ваш текст</string>
+    <string name="button_send">GO!</string>
+</resources>
